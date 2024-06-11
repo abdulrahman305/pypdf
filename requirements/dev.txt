@@ -56,7 +56,7 @@ packaging==23.2
     #   pytest
 pathspec==0.11.2
     # via black
-pillow==9.5.0
+pillow==10.2.0
     # via -r requirements/dev.in
 pip-tools==6.14.0
     # via -r requirements/dev.in
